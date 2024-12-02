@@ -1,6 +1,8 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Spinnin' Records | Music | https://th.bing.com/th/id/OIP.ozSCxcUcjbVA5hPjtS2MCQHaHa?rs=1&pid=ImgDetMain |
+https://www.youtube.com/@spinninrecords/live
 
 Ekattor TV Live | Bangla | https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png |
 https://www.youtube.com/channel/UC0ThmWmb7WQATrrDMLQph7Q/live
@@ -778,4 +780,6 @@ https://www.youtube.com/@DDayCobra/live
 
 Aastha TV | Spiritual | http://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png |
 https://www.youtube.com/@AasthaChannel/live
+
+
 
